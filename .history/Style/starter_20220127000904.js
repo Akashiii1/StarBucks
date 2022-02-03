@@ -1,0 +1,1 @@
+const hamberger=document.querySelector('.ham');
